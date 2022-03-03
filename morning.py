@@ -7,3 +7,5 @@ my_function()
 my_function("Brazil")
 
 
+x = lambda a: a + 10
+print(x(5))
